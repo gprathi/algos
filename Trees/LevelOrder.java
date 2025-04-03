@@ -1,4 +1,4 @@
-package algos.merge_intervals;
+
 
 import java.util.*;
 
